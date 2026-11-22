@@ -129,13 +129,13 @@ and `footer`.
 
 | Criteria | What earns full credit | Points |
 | --- | --- | --- |
-| **Typography** | A Google Fonts display and body pairing with fallbacks; a consistent `rem` type scale; readable `line-height`; paragraphs limited to a readable line length. | 10 |
-| **Box model and layout** | A centered content column; consistent margins and padding; borders or `border-radius` used with purpose; media stays inside the column; styled header, nav, and footer; the clock photo floats with wrapped text and the float is cleared. | 8 |
-| **Media HTML** | The rotunda `img` has a correct `srcset` and `sizes`, `width`, `height`, `alt`, and lazy loading; the `video` has controls, a poster, two `source`s in the right order, a captions `track`, fallback text, and is in a `figure`. | 8 |
-| **Background hero** | `hero.webp` fills the hero with `background-size` and `background-position`, and an overlay keeps the text readable. | 6 |
-| **Stylesheet** | All CSS is in `css/styles.css`, shared by both pages, with no inline styles, and it passes the CSS validator. | 2 |
+| **Typography** | A Google Fonts display and body pairing with fallbacks; a consistent `rem` type scale; readable `line-height`; paragraphs limited to a readable line length. | 14 |
+| **Box model and layout** | A centered content column; consistent margins and padding; borders or `border-radius` used with purpose; media stays inside the column; styled header, nav, and footer; the clock photo floats with wrapped text and the float is cleared. | 12 |
+| **Media HTML** | The rotunda `img` has a correct `srcset` and `sizes`, `width`, `height`, `alt`, and lazy loading; the `video` has controls, a poster, two `source`s in the right order, a captions `track`, fallback text, and is in a `figure`. | 11 |
+| **Background hero** | `hero.webp` fills the hero with `background-size` and `background-position`, and an overlay keeps the text readable. | 9 |
+| **Stylesheet** | All CSS is in `css/styles.css`, shared by both pages, with no inline styles, and it passes the CSS validator. | 3 |
 | **Published and submitted** | GitHub Pages site is live and loads correctly; pull request into `main` is open with the live URL in the description; PR URL submitted in Canvas. | 1 |
-| **Total** |  | **35** |
+| **Total** |  | **50** |
 
 ## 📚 Resources
 
