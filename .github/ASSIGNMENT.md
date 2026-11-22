@@ -121,8 +121,9 @@ Check the following:
 | `images/` | `hero.webp` for the background, the rotunda in four widths, and the other photos already in the pages |
 | `media/` | The film clip as `.webm` and `.mp4`, its poster image, and its captions file (`.vtt`) |
 
-The HTML has only two classes: `.hero` and `.float-image`. Style everything else with element
-selectors like `header`, `nav`, `main`, and `footer`.
+The HTML has only three classes: `.hero`, `.float-image`, and `.current` (the nav link for the
+page you're on). Style everything else with element selectors like `header`, `nav`, `main`,
+and `footer`.
 
 ## 🧮 Grading
 
