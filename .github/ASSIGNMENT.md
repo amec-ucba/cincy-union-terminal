@@ -45,7 +45,8 @@ Change only the spots marked with a `TODO` comment. Don't change the rest of the
 - [ ] An `img` of the rotunda, using `images/rotunda-800.webp` as its `src`
 - [ ] A `srcset` that lists all four rotunda files with their widths (`480w`, `800w`, `1200w`,
       `1600w`)
-- [ ] A `sizes` attribute that matches how wide the image is in your layout
+- [ ] A `sizes` attribute. The photo fills the width of the screen on a phone, so `sizes="100vw"`
+      works, as in the Week 6 lecture
 - [ ] `width` and `height` attributes (the original is 1600 × 1200), `alt` text that describes
       the rotunda, and `loading="lazy"`
 
